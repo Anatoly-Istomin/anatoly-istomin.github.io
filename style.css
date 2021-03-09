@@ -47,8 +47,8 @@ main {
     font-size: medium;
 }
 
-.contacts-style{
-    font-size: small;
+.contacts-style {
+    font-size: medium;
 }
 
 .text-body {
@@ -69,7 +69,7 @@ div.captions {
     padding-top: 10px;
 }
 
-div.time_line{
+div.time_line {
     padding-bottom: 3px;
 }
 
@@ -77,8 +77,13 @@ main img {
     max-width: 25px;
 }
 
-.awards{
+.awards {
     margin-left: 5px;
+
+}
+
+.awards-icon-style {
+    padding-top: 5px;
 }
 
 div.skills-progress {
@@ -94,7 +99,7 @@ skills {
 }
 
 .fa {
-    padding: 20px;
+    padding: 5px;
     font-size: 30px;
     width: 50px;
     text-align: center;
